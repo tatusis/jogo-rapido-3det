@@ -1,6 +1,6 @@
 # Jogo Rápido: 3DeT
 
-Prepare e jogue uma aventura de RPG em apenas 5 minutos.
+Inicie sua aventura de RPG em apenas 5 minutos. Adaptado de 3DeT Victory - [Jambô Editora](https://jamboeditora.com.br)
 
 ![](captura-de-tela.png)
 
