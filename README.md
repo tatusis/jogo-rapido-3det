@@ -1,5 +1,6 @@
-# Jogo Rápido: 3DeT*
-Prepare e jogue uma aventura de RPG em apenas 5 minutos (Adaptado de 3DeT Victory).
+# Jogo Rápido: 3DeT
+
+Prepare e jogue uma aventura de RPG em apenas 5 minutos.
 
 ![](captura-de-tela.png)
 
@@ -7,4 +8,4 @@ Prepare e jogue uma aventura de RPG em apenas 5 minutos (Adaptado de 3DeT Victor
 
 ## 3DeT Victory
 
-Este guia adapta o 3DeT Victory 3.2 para jogos rápidos e iniciantes. Curtiu a experiência? Então mergulhe de cabeça nesse universo! Visite o site da [Jambô Editora](https://jamboeditora.com.br) e garanta os livros oficiais para levar suas campanhas para o próximo nível.
+Este guia adapta 3DeT Victory para jogos rápidos e voltados para iniciantes, servindo como um introdução ao sistema. Curtiu a experiência? Então mergulhe de cabeça nesse universo! Visite o site da [Jambô Editora](https://jamboeditora.com.br) e garanta os livros oficiais para levar suas campanhas para o próximo nível.
