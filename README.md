@@ -3,4 +3,4 @@ Prepare e jogue uma aventura de RPG em apenas 5 minutos (Adaptado de 3DeT Victor
 
 ![](captura-de-tela.png)
 
-[PDF](https://github.com/tatusis/jogo-rapido-3det/releases/download/v1.0.3/jogo-rapido-3det-v103.pdf)
+[Baixe o PDF](https://github.com/tatusis/jogo-rapido-3det/releases/download/v1.0.3/jogo-rapido-3det-v103.pdf)
