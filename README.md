@@ -1,4 +1,4 @@
-# Jogo Rápido: 3DeT
+# Jogo Rápido: 3DeT (Não oficial)
 
 Prepare e jogue uma aventura de RPG em apenas 5 minutos.
 
