@@ -4,7 +4,7 @@ Inicie sua aventura de RPG em apenas 5 minutos. Adaptado de 3DeT Victory - [Jamb
 
 ![](captura-de-tela.png)
 
-[Baixe o PDF](https://github.com/tatusis/jogo-rapido-3det/releases/download/v1.0.9/jogo-rapido-3det-v109.pdf)
+[Baixe o PDF](https://github.com/tatusis/jogo-rapido-3det/releases/download/v1.0.10/jogo-rapido-3det-v1010.pdf)
 
 ## 3DeT Victory
 
